@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // cancle the default submit 
         event.preventDefault();
         // hide the form
-        document.getElementById('contact-form').style.display = 'none';
+        document.getElementById('hide-me').style.display = 'none';
         document.getElementById('sorry-msg').style.display = 'block';
     });
 });

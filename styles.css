@@ -136,6 +136,13 @@ a:hover {
     padding-bottom: 150px;
 }
 
+.sorry-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 3rem;
+    padding-bottom: 150px;
+}
+
 .contact-container .contact {
     transition: 0.3s;
     border-radius: 1rem;
@@ -155,7 +162,6 @@ a:hover {
 .contact-container .row {
     margin-top: 0.5rem;
 }
-
 
 /* ------------------------------------- */
 /* footer */
